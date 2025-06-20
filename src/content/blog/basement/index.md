@@ -1,6 +1,6 @@
 ---
 title: '我的第一篇博客文章'
-pubDate: 1999-01-01 00:00:00
+publishDate: 2010-01-01
 description: '这是我 Astro 博客的第一篇文章。'
 author: 'Astro 学习者'
 image:
